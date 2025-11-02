@@ -1,5 +1,5 @@
 # shopping-site
-I made a very basic shopping site (to help my grandparents run their muscats selling business) <br>
-農家である祖父母が、育て販売しているマスカット販売促進のための基本的なショッピングサイトを作りました。
+I created a basic online shopping site to help promote my grandparents’ muscat grape business.
+My grandparents are muscat farmers who sell their grapes every summer in front of their house. However, because the only way to purchase was through direct, in-person sales, the number of customers was limited, and overall sales efficiency was low.
 
-私の祖父母はマスカット農家です。毎年夏になると家の前でマスカットを販売しています。しかし、購入手段が現地での直接売買のみなため来店が可能な顧客の数が限られ販売効率が悪いという問題点がありました。私は、より広範囲の顧客に対して販売する方法を考えた結果ECサイトの開設を思い付きました。これにより北海道から沖縄まで広範囲の顧客に対して販売可能となり販売利益アップが見込めると考えました。
+To solve this problem, I came up with the idea of launching an e-commerce site that would enable customers from all over Japan to buy the grapes online. This expansion makes it possible to reach buyers from Hokkaido to Okinawa and is expected to increase both accessibility and overall sales revenue.
