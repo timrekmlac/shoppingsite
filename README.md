@@ -1,5 +1,5 @@
 # shopping-site
-I created a basic online shopping site to help promote my grandmother Veggies saling business.
+I developed a simple e-commerce website to support my grandmother’s vegetable farming business and improve local sales outreach.
 My grandmother grows vegitables and sells them every summer in front of her house. 
 However, because the only way to purchase was through direct, in-person sales, the number of customers was limited, and overall sales efficiency was low.
 
